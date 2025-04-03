@@ -1,19 +1,3 @@
-# simple_todo_compositionapi
+super simple todo list
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Composition API (novija varijanta) - koristi script setup i refove
